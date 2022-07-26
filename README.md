@@ -20,4 +20,4 @@ A list of technologies used within the project:
 ## Installation
 ***
 ```
-$ git clone https://github.com/OscarCubeles/SortingAlgorithms.git
+$ git clone [https://github.com/OscarCubeles/SortingAlgorithms.git](https://github.com/OscarCubeles/Sorting-Algorithms.git)
