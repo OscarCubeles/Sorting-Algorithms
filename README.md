@@ -15,6 +15,7 @@ This university project consists on programming different sorting algorithms ([M
 A list of technologies used within the project:
 * [Java](https://docs.oracle.com/javase/7/docs/technotes/guides/language/) - Version: Java SE 15.0.1
 * [OOP](https://docs.oracle.com/javase/tutorial/java/concepts/) 
+* [IntelliJ](https://www.jetbrains.com/idea/)
 
 ## Installation
 ***
